@@ -1,2 +1,1 @@
-# graciousEcommerceSite
-# graciousEcommerceSite
+Gracious Hair Parlour e-commerce website 
